@@ -3,7 +3,7 @@ print("1. ADDITION")
 print("2. SUBTRACT")
 print("3. MULTIPLY")
 print("4. DIVIDE")
-print("5. EXIT")
+
 
 operation = input("Enter a Number: ")
 
